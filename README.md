@@ -4,12 +4,12 @@ The first goal was to use the Python pandas module to clean up the data set. Fol
 However, as of April 2020, confirmation for Fall 2020 was 2725 which was less than the actual enrollment for that particular year, 3126.  Also, confirmation as of May 2020 was greater than the actual enrollment for Fall 2020. This analysis holds for Fall 2021. Based on this analysis, we could predict that enrollment for Fall 2022 should fall within confirmation for April 2022(3579) and May 2022(4662).
 Looking at our aforementioned prediction model, you can see that our confirmation model gives us a predicted value of 4554 which falls within confirmation as of April (3579) and May(4662).
 Based on this model, we are able to predict the enrollment for each  Math course in 2022:
-MATH1060 - 193
-MATH1101 - 150
-MATH1200 - 913
-MATH1300 - 551
-MATH1350 - 465
-MATH1500 - 71
-MATH2301 - 367
-MATH2500 - 83
-MATHD00 - 179
+MATH1060 - 193;
+MATH1101 - 150;
+MATH1200 - 913;
+MATH1300 - 551;
+MATH1350 - 465;
+MATH1500 - 71;
+MATH2301 - 367;
+MATH2500 - 83;
+MATHD00 - 179;
